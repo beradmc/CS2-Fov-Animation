@@ -1,7 +1,8 @@
 # FOV Plugin
 
-<img src="https://github.com/beradmc/CS2-Fov-Animation/raw/main/gif/fov.gif" width="400" alt="FOV Animation Demo 1">
-<img src="https://github.com/beradmc/CS2-Fov-Animation/raw/main/gif/fov1.gif" width="400" alt="FOV Animation Demo 2">
+<p align="center">
+  <img src="https://github.com/beradmc/CS2-Fov-Animation/raw/main/gif/fov.gif" width="400" alt="FOV Animation Demo 1"> <img src="https://github.com/beradmc/CS2-Fov-Animation/raw/main/gif/fov1.gif" width="400" alt="FOV Animation Demo 2">
+</p>
 
 ## What Does It Do?
 
