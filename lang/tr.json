@@ -1,0 +1,13 @@
+{
+  "fov.current": "{Yellow}Mevcut FOV değeriniz: {0}{Default}",
+  "fov.usage": "{LightBlue}Kullanım: !fov <değer> {Default}[{Green}{0}{Default}-{Green}{1}{Default} arası]",
+  "fov.reset.usage": "{Orange}Sıfırlamak için: !fovreset{Default}",
+  "fov.invalid": "{Red}Geçersiz FOV değeri! {Yellow}{0} {Default}ile {Yellow}{1} {Default}arasında bir değer girin.",
+  "fov.changed": "FOV değeriniz {Green}{0} {Default}olarak {LightBlue}değiştirildi.",
+  "fov.reset": "FOV değeriniz {Green}{0} {Default}olarak {LightBlue}sıfırlandı.",
+  "fov.console.usage": "{LightBlue}Kullanım: css_fov <değer> {Default}[{Green}{0}{Default}-{Green}{1}{Default} arası]",
+  "fov.console.current": "{Yellow}Mevcut FOV değeriniz: {0}{Default}",
+  "fov.console.invalid": "{Red}Geçersiz FOV değeri! {Yellow}{0} {Default}ile {Yellow}{1} {Default}arasında bir değer girin.",
+  "fov.console.changed": "FOV değeriniz {Green}{0} {Default}olarak {LightBlue}değiştirildi.",
+  "fov.console.reset": "FOV değeriniz {Green}{0} {Default}olarak {LightBlue}sıfırlandı."
+} 

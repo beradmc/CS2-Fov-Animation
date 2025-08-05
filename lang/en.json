@@ -1,0 +1,13 @@
+{
+  "fov.current": "{Yellow}Current FOV value: {0}{Default}",
+  "fov.usage": "{LightBlue}Usage: !fov <value> {Default}[{Green}{0}{Default}-{Green}{1}{Default} range]",
+  "fov.reset.usage": "{Orange}To reset: !fovreset{Default}",
+  "fov.invalid": "{Red}Invalid FOV value! {Yellow}{0} {Default}to {Yellow}{1} {Default}enter a value between.",
+  "fov.changed": "Your FOV has been {Green}changed to {0}{Default}.",
+  "fov.reset": "Your FOV has been {Green}reset to {0}{Default}.",
+  "fov.console.usage": "{LightBlue}Usage: css_fov <value> {Default}[{Green}{0}{Default}-{Green}{1}{Default} range]",
+  "fov.console.current": "{Yellow}Current FOV value: {0}{Default}",
+  "fov.console.invalid": "{Red}Invalid FOV value! {Yellow}{0} {Default}to {Yellow}{1} {Default}enter a value between.",
+  "fov.console.changed": "Your FOV has been {Green}changed to {0}{Default}.",
+  "fov.console.reset": "Your FOV has been {Green}reset to {0}{Default}."
+} 
